@@ -18,7 +18,7 @@ export const Quiz = () => {
 
   const [quizQuestions, setQuizQuestions] = useState<Results[]>([]);
   const [gameStep, setGameStep] = useState<number>(0);
-  const [questionCount, setQuestionCount] = useState<string>("");
+  const [questionCount, setQuestionCount] = useState<string>('5');
 
   const getRandomQuestions = useCallback(
     (questionCount: string) => {
