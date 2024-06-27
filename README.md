@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-[!screenshot](./src/assets/screenshot.jpg)
+![screenshot](./src/assets/screenshot.jpg)
 
 > You should use Node 18.x and latest
 
